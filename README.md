@@ -11,3 +11,6 @@ Installation
 
 For installing screen handler yoy need to search in nuget extension the package "PersonaJson".
 
+Imagen
+
+![](https://github.com/AxelGenao/Library-Screen-Handler/blob/main/diagram.png)
